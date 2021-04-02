@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+## Somewhere, in another land...
+Welcome to my academic blog for BCORE 120 C. Here, you'll find weekly(?) posts discussing various myths and legends, and their relation to a modern context.
 
-You can use the [editor on GitHub](https://github.com/lucinder/bcore120C/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lucinder/bcore120C/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I play a whole lot of [D&D](https://dnd.wizards.com/), so expect a lot of references thereto as well, as Dungeons & Dragons was a revolutionary franchise for a lot of modern interpretations of mythos, normalizing the stories of polytheistic cultures in monotheistic cultural settings that would otherwise consider such material taboo.
